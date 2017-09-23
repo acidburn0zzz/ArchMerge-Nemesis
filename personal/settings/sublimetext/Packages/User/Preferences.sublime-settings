@@ -1,0 +1,50 @@
+{
+	"added_words":
+	[
+		"R2",
+		"D2",
+		"i3wm",
+		"Openbox",
+		"configs",
+		"conky",
+		"Tint2",
+		"Conkyzen",
+		"Tint2zen",
+		"Rofi",
+		"4k",
+		"Thunar",
+		"config",
+		"Slimlock",
+		"apps",
+		"Clipit",
+		"Gpicview",
+		"Viewnior",
+		"branco",
+		"Oblogout",
+		"Xbacklight",
+		"neofetch",
+		"wttr",
+		"i3lock",
+		"Gnumeric",
+		"openbox",
+		"virtualbox",
+		"github",
+		"conky’s",
+		"Roadmap",
+		"Facebook",
+		"Reddit",
+		"adeos"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"dictionary": "Packages/Dictionaries/English (American).dic",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+	],
+	"spell_check": true,
+	"theme": "Default.sublime-theme"
+}
