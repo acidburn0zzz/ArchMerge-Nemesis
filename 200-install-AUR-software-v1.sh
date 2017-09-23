@@ -20,7 +20,6 @@ sh install-dropbox-v*.sh
 sh install-gnome-screenshot-v*.sh
 sh install-gradio-v*.sh
 sh install-insync-v*.sh
-sh install-lollypop-v*.sh
 sh install-pacli-v*.sh
 sh install-screenkey-v*.sh
 sh install-skypeforlinux-bin-v*.sh
